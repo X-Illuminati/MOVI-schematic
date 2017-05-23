@@ -1,0 +1,25 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD5KA
+D Adjustable Buck Converter (possibly BL3406? with .6V internal reference)
+K SOT-23-5 buck regulator
+$ENDCMP
+#
+$CMP JACK_STEREO
+D Stereo Audio Jack
+K TRS headphone stereo audio jack
+$ENDCMP
+#
+$CMP MAX9814
+D Microphone Amplifier with AGC and Low-Noise Microphone Bias
+K maxim microphone amplifier ADB TDFN-14
+F MAX9814.pdf
+$ENDCMP
+#
+$CMP MCP130-TT
+D Microcontroller Supervisory Circuit with Open Drain Output
+K POR voltage monitor reset supervisor
+F http://ww1.microchip.com/downloads/en/DeviceDoc/11184d.pdf
+$ENDCMP
+#
+#End Doc Library

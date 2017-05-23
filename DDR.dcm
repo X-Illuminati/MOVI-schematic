@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP H5TQ2G63xFx
+D SK Hynix 128x16 1.5V DDR3 SDRAM in JEDEC standard 96ball FBGA
+K hynix ddr sdram h5tq jedec fbga
+$ENDCMP
+#
+#End Doc Library
